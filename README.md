@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, my name is Lewis Parmenter 👋
+I'm a developer from Melbourne, Australia. I am currently studying Networking & Software Engineering.
 <!--
 **lewpar/lewpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
