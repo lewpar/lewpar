@@ -5,4 +5,4 @@ I am currently studying:
 - Networking
 - Cyber Security
 
-I run the tech blogging website https://scorchit.net/ where you can read my articles or see what I am getting up to.
+I run the tech blogging website https://scorchit.net/ (WIP) where you can read my articles or see what I am getting up to.
