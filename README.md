@@ -1,8 +1,8 @@
-### Hi there, my name is Lewis Parmenter 👋
+### Hi there, my name is Lewis 👋
 I'm a software developer from Melbourne, Australia. 
 
 I am currently studying:
 - Networking
 - Cyber Security
 
-I run the tech blogging website https://scorchit.net/ (WIP) where you can read my articles or see what I am getting up to.
+I am interested in playing and modding video games in my spare time. 
